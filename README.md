@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a To-Do List application built using the MERN stack (PostgreSQL, Express.js, React.js, Node.js). It allows users to manage their tasks by creating, updating, and marking tasks as completed. The project also includes user authentication using JSON Web Token (JWT) and bcrypt for password hashing.
+This is a To-Do List application built using the PERN stack (PostgreSQL, Express.js, React.js, Node.js). It allows users to manage their tasks by creating, updating, and marking tasks as completed. The project also includes user authentication using JSON Web Token (JWT) and bcrypt for password hashing.
 
 The application uses PostgreSQL as the database, Express.js as the backend server, React.js for the frontend, and Tailwind CSS for styling.
 
